@@ -1,0 +1,383 @@
+!!!RNB: signs for voice crossing?
+!!!COA: Jaspart
+!!!COS: Japart, Jean
+!!!LAR: Sicher, Fridolin
+!!!ONB: Doubtful: Gaspar van Weerbeke
+!!!OTL: J'ay pris amours
+!!!ONB: organ intabulation
+!!!AGN: Song; Chanson
+!!!SCT: Gas0509.2
+!!!SCA: Gas0509.2
+**kern	**kern
+*part1	*part1
+*staff2	*staff1
+*clefF4	*clefG2
+*k[]	*k[]
+*M2/1	*M2/1
+*met(C|)	*met(C|)
+=1	=1
+*^	*^
+[0ryy	0G	0G	0ryy
+=2	=2	=2	=2
+[0ryy	1G	1B-X	0ryy
+.	2E-X	1B-	.
+.	2G	.	.
+=3	=3	=3	=3
+0ryy	0D	0A	0ryy
+=4	=4	=4	=4
+0G	0GG	1G	0ryy
+.	.	2.B-X	.
+.	.	4c	.
+=5	=5	=5	=5
+1B-X	1G	2d	0ryy
+.	.	2e-i	.
+1B-i	2E-X	2d	.
+.	2G	[2g	.
+=6	=6	=6	=6
+0A	2.D	2g]	0ryy
+.	.	4f	.
+.	4C	4e	.
+.	1D	4f	.
+.	.	4e	.
+.	.	4d	.
+.	.	4c	.
+!!LO:LB:g=original
+=7	=7	=7	=7
+1G	0GG	0g	2.B-X
+.	.	.	4c
+1B-X	.	.	1d
+=8	=8	=8	=8
+2re	0G	1b-X	2rc
+2A	.	.	2c
+1B-X	.	1b-	2d
+.	.	.	2e
+=9	=9	=9	=9
+1c	1F	0a	0f
+1d	1D	.	.
+=10	=10	=10	=10
+2re	0G	0d	0g
+2c	.	.	.
+1d	.	.	.
+=11	=11	=11	=11
+1e-X	1C	1rdd	1g
+1d	1D	1f	2f
+.	.	.	[2d
+=12	=12	=12	=12
+2re	1G	1g	2d]
+2B	.	.	2e
+1c	1F	1a	1f
+!!LO:LB:g=original
+=13	=13	=13	=13
+2.B-X	1G	1b-X	2.d
+4c	.	.	4e
+1d	1D	2a	1f
+.	.	2f	.
+=14	=14	=14	=14
+2re	1G	1g	1B-X
+2c	.	.	.
+1d	1D	1f	2f
+.	.	.	2d
+=15	=15	=15	=15
+1G	2C	1rdd	2e
+.	2E-X	.	1g
+1A	1D	1a	.
+.	.	.	2f#X
+=16	=16	=16	=16
+1G	1GG	1b-X	2.g
+.	.	.	4f
+1rB	1rBB	1cc	2e
+.	.	.	2f
+=17	=17	=17	=17
+0ryy	1D	1dd	2re
+.	.	.	4e
+.	.	.	4d
+.	1r	2cc	2e
+.	.	2a	2f
+=18	=18	=18	=18
+0ryy	1.G	2b-i	2d
+.	.	1g	2.B-X
+.	.	.	4G
+.	2F	2a	2c
+!!LO:LB:g=original
+=19	=19	=19	=19
+0ryy	1G	2g	2B-X
+.	.	4f#i	2G
+.	.	4e	.
+.	1D	1f#i	1A
+=20	=20	=20	=20
+1rF	2.GG	0g	1G
+.	4AA	.	.
+1G	2BB-i	.	2.d
+.	2C	.	.
+.	.	.	4e
+=21	=21	=21	=21
+2F	2.D	2f	0ryy
+2B-X	.	2d	.
+.	4E	.	.
+2A	2F	2c	.
+2B-i	2G	[2d	.
+=22	=22	=22	=22
+4rBB	4rBB	0g	2d]
+4A	4F	.	.
+4G	4E	.	4c#i
+4F	4D	.	4B
+1G	1E	.	1c#i
+=23	=23	=23	=23
+1rA	0D	1b-X	0d
+2.A	.	[1a	.
+4B-X	.	.	.
+*v	*v	*	*
+*	*v	*v
+=24	=24
+2c	1a]
+2d	.
+2.c	1f
+4d	.
+!!LO:LB:g=original
+=25	=25
+2B-X	1g
+1e-X	.
+.	[1f
+2f	.
+=26	=26
+4rF	1f]
+4e-i	.
+4d	.
+4c	.
+2e-X	1b-X
+2d	.
+=27	=27
+*^	*
+2rd	1F	2r
+4c	.	4a
+4B-X	.	4g
+1c	1F	1a
+=28	=28	=28
+*	*	*^
+2B-X	1.BB-X	0b-X	1.d
+1B-i	.	.	.
+4A	2C	.	4c
+4G	.	.	4B-i
+=29	=29	=29	=29
+2.F	1D	0rb	2A
+.	.	.	2B-X
+4E	.	.	.
+2G	2C	.	2c
+2F	2D	.	2A
+=30	=30	=30	=30
+0G	2GG	0b-X	1G
+.	1BB-X	.	.
+.	.	.	2d
+.	2C	.	2e
+!!LO:LB:g=original
+=31	=31	=31	=31
+0F	0D	1a	2.f
+.	.	.	4e
+.	.	1f	1d
+=32	=32	=32	=32
+0E	0G	0g	2rB
+.	.	.	4c#i
+.	.	.	4B
+.	.	.	1c#X
+=33	=33	=33	=33
+0D	0A	1f	2d
+.	.	.	4c
+.	.	.	4B-X
+.	.	[1d	1A
+=34	=34	=34	=34
+1d	1D	1d]	1A
+2c	2E-X	[1g	2G
+2B-X	[2D	.	2d
+=35	=35	=35	=35
+1G	2D]	1g]	2B-X
+.	2G	.	2c
+1A	1D	1f#X	1d
+=36	=36	=36	=36
+1G	1G	1g	1B-X
+1rc	1F	1a	1c
+!!LO:PB:g=original
+=37	=37	=37	=37
+0ryy	0D	0f	1.d
+.	.	.	4e
+.	.	.	4f
+=38	=38	=38	=38
+1rA	1GG	1g	0ryy
+[1B-X	1rBB	2f	.
+.	.	[2d	.
+=39	=39	=39	=39
+1B-]	1G	2d]	0ryy
+.	.	2g	.
+1c	1C	2a	.
+.	.	[2g	.
+=40	=40	=40	=40
+0A	0D	2g]	0ryy
+.	.	4f#i	.
+.	.	4e	.
+.	.	1f#X	.
+=41	=41	=41	=41
+0G	0GG	2r	0ryy
+.	.	1g	.
+.	.	4f	.
+.	.	4e	.
+=42	=42	=42	=42
+1B-X	0rBB	1d	0ryy
+1A	.	1c	.
+!!LO:LB:g=original
+=43	=43	=43	=43
+1F	1rBB	2c	0ryy
+.	.	1d	.
+1G	1GG	.	.
+.	.	[2B-X	.
+=44	=44	=44	=44
+2rB	0D	2B-]	0ryy
+4F#i	.	4A	.
+4E	.	4G	.
+1F#X	.	1A	.
+=45	=45	=45	=45
+0G	0GG	2G	0ryy
+.	.	2d	.
+.	.	2e-X	.
+.	.	[2d	.
+=46	=46	=46	=46
+0rF	0D	0f	2d]
+.	.	.	4c
+.	.	.	4B-X
+.	.	.	1A
+=47	=47	=47	=47
+1rF	0GG	1.g	1G
+1G	.	.	1B-X
+.	.	2f	.
+=48	=48	=48	=48
+2A	0rBB	2e	2c
+1F	.	2d	1A
+.	.	1d	.
+2G	.	.	2B-X
+!!LO:LB:g=original
+=49	=49	=49	=49
+4rF	1BB-X	2ra	4rA
+4F	.	.	4A
+2D	.	4c#i	4G
+.	.	4B	4F
+1E	1AA	1c#i	1A
+=50	=50	=50	=50
+0D	1BB-X	0d	1F
+.	1GG	.	1G
+=51	=51	=51	=51
+1rA	1D	1rb	2A
+.	.	.	2B-X
+1D	1rGG	1a	2A
+.	.	.	[2d
+=52	=52	=52	=52
+0F	0D	1a	2d]
+.	.	.	4c
+.	.	.	4B-X
+.	.	1a	1A
+=53	=53	=53	=53
+0G	0GG	1.b-X	1G
+.	.	.	1B-X
+.	.	2a	.
+=54	=54	=54	=54
+1A	1D	1f	1A
+1G	1GG	1g	1B-X
+!!LO:LB:g=original
+=55	=55	=55	=55
+1E	1rGG	1a	1c
+1F	1D	1f	1d
+*	*	*v	*v
+=56	=56	=56
+0G	0C	2r
+.	.	4e
+.	.	4d
+.	.	1e
+=57	=57	=57
+1F	0D	0f
+1D	.	.
+*v	*v	*
+=58	=58
+1E	1r
+1F	1d
+=59	=59
+*^	*
+1G	1rBB	1e
+1D	1D	1f
+=60	=60	=60
+1B-X	1E	1g
+1A	1F	1d
+!!LO:LB:g=original
+=61	=61	=61
+*	*	*^
+2B-X	1G	1rb	0d
+2.d	.	.	.
+.	1D	1f	.
+4c	.	.	.
+2d	.	.	.
+=62	=62	=62	=62
+2G	1C	1g	1e-X
+2c	.	.	.
+2A	1D	1f	1d
+2d	.	.	.
+=63	=63	=63	=63
+0B-X	1GG	1.b-X	4rc
+.	.	.	4c
+.	.	.	2d
+.	1G	.	2rc
+.	.	2a	2f
+=64	=64	=64	=64
+1c	1E	1g	4g
+.	.	.	4f
+.	.	.	2g
+1d	1D	1f	2a
+.	.	.	[2d
+=65	=65	=65	=65
+0d	1G	1b-X	4d]
+.	.	.	4r
+.	.	.	8e
+.	.	.	8f
+.	.	.	4g
+.	1D	2a	2f
+.	.	[2dd	4g
+.	.	.	4a
+!!LO:LB:g=original
+=66	=66	=66	=66
+2d	1G	2dd]	2d
+2c	.	2cc	1g
+1d	1A	1a	.
+.	.	.	2f#X
+=67	=67	=67	=67
+1d	0G	1b-X	2g
+.	.	.	2.d
+1B-X	.	1g	.
+.	.	.	4c
+.	.	.	2d
+=68	=68	=68	=68
+0A	0D	2rb	4rB
+.	.	.	4c
+.	.	4f#i	2.d
+.	.	4e	.
+.	.	1f#i	.
+.	.	.	4c
+.	.	.	2d
+=69	=69	=69	=69
+0G	0GG	0g	1.B-X
+.	.	.	2c
+=70	=70	=70	=70
+0Gl	0GGl	0gl	0dl
+*v	*v	*	*
+*	*v	*v
+==	==
+*-	*-
+!!!system-decoration: [*]
+!!!RDF**kern: j = editorial accidental, optional, paren up
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!PTL: Gaspar van Weerbeke: Collected Works. V. Settings of Liturgical Texts, Songs, and Instrumental Works
+!!!ISBN: 978-1-59551-544-5
+!!!PPR: American Institute of Musicology
+!!!PC#: Corpus Mensurabilis Musicae 106/V
+!!!PDT: 2020
+!!!PED: Kolb, Paul
+!!!YEC: Copyright 2018, Kolb, Paul
+!!!YEM: CC-BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/legalcode)
+!!!EED: Zybina, Karina
+!!!EEV: 2021/08/26
+!!!ONB: from http://www.gaspar-van-weerbeke.sbg.ac.at/gaspar-online-edition with doubled rhythms
