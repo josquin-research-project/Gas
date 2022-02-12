@@ -12,10 +12,16 @@
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Superius	*
 *I'B	*	*I'T	*	*I'A	*	*I'S	*
+*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]
+*>Kyrie1[A]	*>Kyrie1[A]	*>Kyrie1[A]	*>Kyrie1[A]	*>Kyrie1[A]	*>Kyrie1[A]	*>Kyrie1[A]	*>Kyrie1[A]
+*>Christe[B]	*>Christe[B]	*>Christe[B]	*>Christe[B]	*>Christe[B]	*>Christe[B]	*>Christe[B]	*>Christe[B]
+*>Kyrie2[C]	*>Kyrie2[C]	*>Kyrie2[C]	*>Kyrie2[C]	*>Kyrie2[C]	*>Kyrie2[C]	*>Kyrie2[C]	*>Kyrie2[C]
+*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
 *met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
+!!section: Kyrie I
 =1	=1	=1	=1	=1	=1	=1	=1
 1D	Ky-	0.r	.	1.D	Ky-	0.r	.
 2BB	-ri-	.	.	.	.	.	.
@@ -179,8 +185,10 @@
 0.GGl	-son.	0.Gl	-son.	0.Bl 1.dl	-son.	0.gl	-son.
 !!LO:PB:g=original
 =18||	=18||	=18||	=18||	=18||	=18||	=18||	=18||
+*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+!!section: Christe
 0r	.	0r	.	0r	.	0g	Chri-
 =19	=19	=19	=19	=19	=19	=19	=19
 0r	.	0r	.	0G	Chri-	1g	-ste
@@ -480,8 +488,10 @@
 0GGl	-son.	0r	.	0Gl	-son.	0gl	-son.
 !!LO:LB:g=original
 =70||	=70||	=70||	=70||	=70||	=70||	=70||	=70||
+*>C	*>C	*>C	*>C	*>C	*>C	*>C	*>C
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
 *met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
+!!section: Kyrie II
 *	*	*	*	*	*	*lig	*
 0G	Ky-	0.r	.	1.d	Ky-	1g	Ky-
 .	.	.	.	.	.	1b	.
