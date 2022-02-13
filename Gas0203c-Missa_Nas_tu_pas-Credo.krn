@@ -12,10 +12,15 @@
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Superius	*
 *I'B	*	*I'T	*	*I'A	*	*I'S	*
+*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]
+*>Patrem[A]	*>Patrem[A]	*>Patrem[A]	*>Patrem[A]	*>Patrem[A]	*>Patrem[A]	*>Patrem[A]	*>Patrem[A]
+*>Crucifixus[B]	*>Crucifixus[B]	*>Crucifixus[B]	*>Crucifixus[B]	*>Crucifixus[B]	*>Crucifixus[B]	*>Crucifixus[B]	*>Crucifixus[B]
+*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+!!section: Patrem
 =1	=1	=1	=1	=1	=1	=1	=1
 0r	.	0r	.	1F	Pa-	1f	Pa-
 .	.	.	.	2F	-trem	2f	-trem
@@ -427,8 +432,10 @@
 0FFl	est.	0Fl	est.	0cl	est.	0fl	est.
 !!LO:LB:g=original
 =68||	=68||	=68||	=68||	=68||	=68||	=68||	=68||
+*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+!!section: Crucifixus
 0r	.	0r	.	1r	.	2f	Cru-
 .	.	.	.	.	.	2f	-ci-
 .	.	.	.	2F	Cru-	2f	-fi-
@@ -837,10 +844,10 @@
 2AA	.	1F	.	.	.	.	.
 1GG	.	.	.	.	.	.	.
 .	.	2E	.	.	.	.	.
+!!LO:TX:t=[whole]=[whole-dot]
 =137	=137	=137	=137	=137	=137	=137	=137
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
 *met(O|)	*	*met(O|)	*	*met(O|)	*	*met(O|)	*
-!!LO:TX:t=[whole]=[whole-dot]
 0FF	-rum.	0F	-rum.	1r	.	0.r	.
 .	.	.	.	1r	.	.	.
 1r	.	1r	.	1F	Et	.	.

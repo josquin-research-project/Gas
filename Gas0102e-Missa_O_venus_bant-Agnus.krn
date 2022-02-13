@@ -12,13 +12,17 @@
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Superius	*
 *I'B	*	*I'T	*	*I'A	*	*I'S	*
+*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]
+*>Agnus1[A]	*>Agnus1[A]	*>Agnus1[A]	*>Agnus1[A]	*>Agnus1[A]	*>Agnus1[A]	*>Agnus1[A]	*>Agnus1[A]
+*>Agnus2[B]	*>Agnus2[B]	*>Agnus2[B]	*>Agnus2[B]	*>Agnus2[B]	*>Agnus2[B]	*>Agnus2[B]	*>Agnus2[B]
+*>Agnus3[C]	*>Agnus3[C]	*>Agnus3[C]	*>Agnus3[C]	*>Agnus3[C]	*>Agnus3[C]	*>Agnus3[C]	*>Agnus3[C]
+*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
 *met(O|)	*	*met(C.)	*	*met(O|)	*	*met(O|)	*
+!!section: Agnus I
 =1	=1	=1	=1	=1	=1	=1	=1
-!!LO:TX:a:t=C. (T)
-!!LO:TX:a:t=O| (S, A, B)
 0.r	.	0.r	.	0G	A-	0g	A-
 .	.	.	.	1A	.	1f	.
 =2	=2	=2	=2	=2	=2	=2	=2
@@ -328,8 +332,10 @@
 0.GGl	-bis.	0.Gl	-bis.	0.d]	.	0.gl	-bis.
 !!LO:PB:g=original
 =37||	=37||	=37||	=37||	=37||	=37||	=37||	=37||
+*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+!!section: Agnus II
 0r	.	0r	.	0G	A-	2.g	A-
 .	.	.	.	.	.	4f	.
 .	.	.	.	.	.	2d	.
@@ -752,11 +758,11 @@
 0GGl	-bis.	0r	.	0G]	.	0g]	.
 !!LO:LB:g=original
 =108||	=108||	=108||	=108||	=108||	=108||	=108||	=108||
-!!LO:TX:a:t=C (T)
-!!LO:TX:a:t=C| (S, A, B)
+*>C	*>C	*>C	*>C	*>C	*>C	*>C	*>C
 *clefGv2	*	*clefF4	*	*clefGv2	*	*clefG2	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C)	*	*met(C|)	*	*met(C|)	*
+!!section: Agnus III
 *	*Xedit	*	*	*	*	*	*
 !LO:TX:a:t=Canon&colon; Descenderunt in profundis quasi lapis	!	!	!	!	!	!	!
 1.G	A-	0GG	A-	1d	A-	0r	.

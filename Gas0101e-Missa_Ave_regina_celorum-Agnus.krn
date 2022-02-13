@@ -11,11 +11,17 @@
 *part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Superius	*
+*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]
+*>Agnus1[A]	*>Agnus1[A]	*>Agnus1[A]	*>Agnus1[A]	*>Agnus1[A]	*>Agnus1[A]	*>Agnus1[A]	*>Agnus1[A]
+*>Agnus2[B]	*>Agnus2[B]	*>Agnus2[B]	*>Agnus2[B]	*>Agnus2[B]	*>Agnus2[B]	*>Agnus2[B]	*>Agnus2[B]
+*>Agnus3[C]	*>Agnus3[C]	*>Agnus3[C]	*>Agnus3[C]	*>Agnus3[C]	*>Agnus3[C]	*>Agnus3[C]	*>Agnus3[C]
+*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A
 *I'B	*	*I'T	*	*I'A	*	*I'S	*
 *clefF4	*	*clefF4	*	*clefGv2	*	*clefGv2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
 *met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
+!!section: Agnus I
 =1	=1	=1	=1	=1	=1	=1	=1
 *	*	*	*	*col	*	*	*
 0.r	.	0.r	.	[0.F	A-	0.F	A-
@@ -391,8 +397,10 @@
 *	*	*	*	*v	*v	*	*	*
 !!LO:LB:g=original
 =43||	=43||	=43||	=43||	=43||	=43||	=43||	=43||
+*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+!!section: Agnus II
 1.C	A-	0r	.	0C	A-	0r	.
 2AA	.	.	.	.	.	.	.
 =44	=44	=44	=44	=44	=44	=44	=44
@@ -741,6 +749,8 @@
 1FFl	-bis.	.	.	1Cl	-bis.	1Fl	-bis.
 !!LO:LB:g=original
 =98||	=98||	=98||	=98||	=98||	=98||	=98||	=98||
+*>C	*>C	*>C	*>C	*>C	*>C	*>C	*>C
+!!section: Agnus III
 1.FF	A-	[0F	A-	0r	.	[0c	A-
 2GG	.	.	.	.	.	.	.
 =99	=99	=99	=99	=99	=99	=99	=99

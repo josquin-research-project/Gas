@@ -12,11 +12,15 @@
 *staff4	*staff4	*staff3	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Bassus	*	*I"Tenor	*	*	*I"Altus	*	*I"Superius	*
 *I'B	*	*I'T	*	*	*I'A	*	*I'S	*
+*>EtInTerraPax[A]	*>EtInTerraPax[A]	*>EtInTerraPax[A]	*>EtInTerraPax[A]	*>EtInTerraPax[A]	*>EtInTerraPax[A]	*>EtInTerraPax[A]	*>EtInTerraPax[A]	*>EtInTerraPax[A]
+*>QuiTollis[B]	*>QuiTollis[B]	*>QuiTollis[B]	*>QuiTollis[B]	*>QuiTollis[B]	*>QuiTollis[B]	*>QuiTollis[B]	*>QuiTollis[B]	*>QuiTollis[B]
+*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A
 *clefF4	*	*clefF4	*	*	*clefGv2	*	*clefGv2	*
 *k[b-]	*	*k[b-]	*	*	*k[b-]	*	*k[b-]	*
 *d:	*	*d:	*	*	*d:	*	*d:	*
 *M3/1	*	*M3/1	*	*	*M3/1	*	*M3/1	*
 *met(O)	*	*met(O)	*	*	*met(O)	*	*met(O)	*
+!!!section: Et in terra pax
 =1	=1	=1	=1	=1	=1	=1	=1	=1
 *	*	*	*	*	*col	*	*	*
 0.r	.	0.r	.	.	[0.F	Et	0.F	Et
@@ -532,8 +536,10 @@
 0.FFl	-tris.	0.Fl	-tris.	.	0.cl	-tris.	0.fl	-tris.
 !!LO:PB:g=original
 =57||	=57||	=57||	=57||	=57||	=57||	=57||	=57||	=57||
+*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
 *M2/1	*	*M2/1	*	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*	*met(C|)	*	*met(C|)	*
+!!section: Qui tollis
 1FF	Qui	[0F	Qui	.	1c	Qui	[0f	Qui
 2.FF	tol-	.	.	.	2.c	tol-	.	.
 4GG	.	.	.	.	4B-y	.	.	.

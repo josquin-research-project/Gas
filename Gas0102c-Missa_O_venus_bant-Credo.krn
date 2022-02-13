@@ -12,10 +12,16 @@
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Superius	*
 *I'B	*	*I'T	*	*I'A	*	*I'S	*
+*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]
+*>Patrem[A]	*>Patrem[A]	*>Patrem[A]	*>Patrem[A]	*>Patrem[A]	*>Patrem[A]	*>Patrem[A]	*>Patrem[A]
+*>EtIncarnatus[B]	*>EtIncarnatus[B]	*>EtIncarnatus[B]	*>EtIncarnatus[B]	*>EtIncarnatus[B]	*>EtIncarnatus[B]	*>EtIncarnatus[B]	*>EtIncarnatus[B]
+*>EtIterum[C]	*>EtIterum[C]	*>EtIterum[C]	*>EtIterum[C]	*>EtIterum[C]	*>EtIterum[C]	*>EtIterum[C]	*>EtIterum[C]
+*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
 *met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
+!!section: Patrem
 =1	=1	=1	=1	=1	=1	=1	=1
 0.r	.	0.r	.	0G	Pa-	0g	Pa-
 .	.	.	.	1A	-trem	1f	-trem
@@ -374,8 +380,10 @@
 *	*	*	*	*Xlig	*	*	*
 !!LO:LB:g=original
 =41||	=41||	=41||	=41||	=41||	=41||	=41||	=41||
+*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+!!section: Et incarnatus
 0GG	Et	0r	.	0G	Et	0r	.
 =42	=42	=42	=42	=42	=42	=42	=42
 1C	in-	0r	.	1G	in-	0r	.
@@ -687,10 +695,10 @@
 0GGl	-tris.	0r	.	0Gl	-tris.	0Gl	-tris.
 !!LO:LB:g=original
 =103||	=103||	=103||	=103||	=103||	=103||	=103||	=103||
+*>C	*>C	*>C	*>C	*>C	*>C	*>C	*>C
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C)	*	*met(C|)	*	*met(C|)	*
-!!LO:TX:a:t=C (T)
-!!LO:TX:a:t=C| (S, A, B)
+!!section: Et iterum
 0r	.	0r	.	0r	.	0g	Et
 =104	=104	=104	=104	=104	=104	=104	=104
 0r	.	0r	.	0r	.	1a	i-

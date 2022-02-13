@@ -12,11 +12,19 @@
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Cantus	*
 *I'B	*	*I'T	*	*I'A	*	*I'C	*
+*>[A,B,C,D,E]	*>[A,B,C,D,E]	*>[A,B,C,D,E]	*>[A,B,C,D,E]	*>[A,B,C,D,E]	*>[A,B,C,D,E]	*>[A,B,C,D,E]	*>[A,B,C,D,E]
+*>Patrem[A]	*>Patrem[A]	*>Patrem[A]	*>Patrem[A]	*>Patrem[A]	*>Patrem[A]	*>Patrem[A]	*>Patrem[A]
+*>EtIncarnatus[B]	*>EtIncarnatus[B]	*>EtIncarnatus[B]	*>EtIncarnatus[B]	*>EtIncarnatus[B]	*>EtIncarnatus[B]	*>EtIncarnatus[B]	*>EtIncarnatus[B]
+*>Crucifixus[C]	*>Crucifixus[C]	*>Crucifixus[C]	*>Crucifixus[C]	*>Crucifixus[C]	*>Crucifixus[C]	*>Crucifixus[C]	*>Crucifixus[C]
+*>EtResurexit[D]	*>EtResurexit[D]	*>EtResurexit[D]	*>EtResurexit[D]	*>EtResurexit[D]	*>EtResurexit[D]	*>EtResurexit[D]	*>EtResurexit[D]
+*>EtIterum[E]	*>EtIterum[E]	*>EtIterum[E]	*>EtIterum[E]	*>EtIterum[E]	*>EtIterum[E]	*>EtIterum[E]	*>EtIterum[E]
+*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *oclefF4	*	*oclefC4	*	*oclefC3	*	*oclefC1	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
 *met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
+!!section: Patrem
 =1	=1	=1	=1	=1	=1	=1	=1
 0.r	.	0.G	Pa-	0.r	.	0g	Pa-
 .	.	.	.	.	.	1g	-trem
@@ -440,8 +448,10 @@
 0.GG]	.	0.G]	.	0.dl	-lis.	0.g]	.
 !!LO:LB:g=original
 =57||	=57||	=57||	=57||	=57||	=57||	=57||	=57||
+*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+!!section: Et incarnatus
 0GG	Et	0G	Et	0d	Et	0g	Et
 =58	=58	=58	=58	=58	=58	=58	=58
 1C	in-	1G	in-	1c	in-	1g	in-
@@ -555,8 +565,10 @@
 *Xlig	*	*	*	*	*	*	*
 !!LO:LB:g=original
 =82||	=82||	=82||	=82||	=82||	=82||	=82||	=82||
+*>C	*>C	*>C	*>C	*>C	*>C	*>C	*>C
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+!!section: Crucifixus
 1GG	Cru-	0r	.	0r	.	0r	.
 1C	-ci-	.	.	.	.	.	.
 =83	=83	=83	=83	=83	=83	=83	=83
@@ -629,8 +641,10 @@
 0GGl	est.	0r	.	0Gl	est.	0r	.
 !!LO:LB:g=original
 =97||	=97||	=97||	=97||	=97||	=97||	=97||	=97||
+*>D	*>D	*>D	*>D	*>D	*>D	*>D	*>D
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+!!section: Et resurexit
 0r	.	1G	Et	0r	.	0r	.
 .	.	2c	re-	.	.	.	.
 .	.	2c	-sur-	.	.	.	.
@@ -763,8 +777,10 @@
 0r	.	0Gl	-tris.	0r	.	0gl	-tris.
 !!LO:LB:g=original
 =121||	=121||	=121||	=121||	=121||	=121||	=121||	=121||
+*>E	*>E	*>E	*>E	*>E	*>E	*>E	*>E
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+!!setion: Et iterum
 0G	Et	[0B	Et	0d	Et	0g	Et
 =122	=122	=122	=122	=122	=122	=122	=122
 1E	i-	0B]	.	1.e	i-	1.g	i-
@@ -1148,7 +1164,7 @@
 0D	-sma	0d	-sma	0f	-sma	[0a	-sma
 !	!	!	!	!LO:TX:a:t=[whole]=[whole-dot]	!	!	!
 =207	=207	=207	=207	=207	=207	=207	=207
-*M3/3%2	*	*M3/3%2	*	*M3/3	*	*	*
+*M3/3%4%2	*	*M3/3%4%2	*	*M3/3%2	*	*	*
 *met(3)	*	*met(3)	*	*met(3)	*	*	*
 *Xtuplet	*	*Xtuplet	*	*Xtuplet	*	*	*
 3%4.r	.	3%4d	in	3%4f	in	0a]	.

@@ -12,10 +12,14 @@
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Superius	*
 *I'B	*	*I'T	*	*I'A	*	*I'S	*
+*>EtInTerraPax[A]	*>EtInTerraPax[A]	*>EtInTerraPax[A]	*>EtInTerraPax[A]	*>EtInTerraPax[A]	*>EtInTerraPax[A]	*>EtInTerraPax[A]	*>EtInTerraPax[A]
+*>QuiTollis[B]	*>QuiTollis[B]	*>QuiTollis[B]	*>QuiTollis[B]	*>QuiTollis[B]	*>QuiTollis[B]	*>QuiTollis[B]	*>QuiTollis[B]
+*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
 *met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
+!!section: Et in terra pax
 =1	=1	=1	=1	=1	=1	=1	=1
 0.r	.	0.r	.	1G	Et	0g	Et
 .	.	.	.	2G	in	.	.
@@ -518,9 +522,11 @@
 .	.	.	.	.	.	4d	.
 0GGl;	-tris.	.	.	0Dl;	-tris.	0Bl;	-tris.
 !!LO:LB:g=original
-=57	=57	=57	=57	=57	=57	=57	=57
+=57||	=57||	=57||	=57||	=57||	=57||	=57||	=57||
+*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+!!section: Qui tollis
 *	*	*	*	*	*Xedit	*	*
 0GG	Qui	0r	.	[0G	Qui	0r	.
 =58	=58	=58	=58	=58	=58	=58	=58
@@ -1014,12 +1020,11 @@
 .	.	.	.	.	.	4g	.
 .	.	.	.	.	.	4f	.
 !!LO:LB:g=original
+!!LO:TX:a:t=[whole] = [whole-dot]
 =148	=148	=148	=148	=148	=148	=148	=148
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
 *met(3)	*	*met(3)	*	*met(3)	*	*met(3)	*
 *	*Xedit	*	*edit	*	*	*	*
-!!LO:TX:a:t=3
-!!LO:TX:a:t=[whole] = [whole-dot]
 0C	Cum	0G	Cum	0g	-ste.	0e	-ste.
 1C	San-	1G	San-	1c	Cum	1e	Cum
 =149	=149	=149	=149	=149	=149	=149	=149
