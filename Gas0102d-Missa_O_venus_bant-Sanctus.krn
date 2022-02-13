@@ -12,12 +12,17 @@
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Superius	*
 *I'B	*	*I'T	*	*I'A	*	*I'S	*
+*>[A,B,C,D,C]	*>[A,B,C,D,C]	*>[A,B,C,D,C]	*>[A,B,C,D,C]	*>[A,B,C,D,C]	*>[A,B,C,D,C]	*>[A,B,C,D,C]	*>[A,B,C,D,C]
+*>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]
+*>Pleni[B]	*>Pleni[B]	*>Pleni[B]	*>Pleni[B]	*>Pleni[B]	*>Pleni[B]	*>Pleni[B]	*>Pleni[B]
+*>Osanna[C]	*>Osanna[C]	*>Osanna[C]	*>Osanna[C]	*>Osanna[C]	*>Osanna[C]	*>Osanna[C]	*>Osanna[C]
+*>Benedictus[D]	*>Benedictus[D]	*>Benedictus[D]	*>Benedictus[D]	*>Benedictus[D]	*>Benedictus[D]	*>Benedictus[D]	*>Benedictus[D]
+*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
 *met(O|)	*	*met(C.)	*	*met(O|)	*	*met(O|)	*
+!!section: Sanctus
 =1	=1	=1	=1	=1	=1	=1	=1
-!!LO:TX:a:t=C. (T)
-!!LO:TX:a:t=O| (S, A, B)
 0.r	.	0.r	.	0G	San-	0g	San-
 .	.	.	.	1A	.	1f	.
 =2	=2	=2	=2	=2	=2	=2	=2
@@ -366,8 +371,10 @@
 1GGl	-oth.	.	.	1dl	-oth.	.	.
 !!LO:LB:g=original
 =41||	=41||	=41||	=41||	=41||	=41||	=41||	=41||
+*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+!!section: Pleni
 0r	.	0r	.	0D	Ple-	0r	.
 =42	=42	=42	=42	=42	=42	=42	=42
 0r	.	0r	.	1E	.	1r	.
@@ -667,11 +674,11 @@
 0GGl	-a.	0r	.	0Gl	-a.	0gl	-a.
 !!LO:LB:g=original
 =90||	=90||	=90||	=90||	=90||	=90||	=90||	=90||
-!!LO:TX:a:t=C. (T)
-!!LO:TX:a:t=O| (S, A, B)
+*>C	*>C	*>C	*>C	*>C	*>C	*>C	*>C
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
 *met(O|)	*	*met(C.)	*	*met(O|)	*	*met(O|)	*
 *	*	*	*	*	*	*lig	*
+!!section: Osanna
 1.G	O-	0.G	O-	1d	O-	1.g	O-
 .	.	.	.	2B	.	.	.
 2F	.	.	.	2G	.	1b	.
@@ -806,8 +813,10 @@
 0.GGl	-sis.	0.Gl	-sis.	0.dl	-sis.	0.gl	-sis.
 !!LO:LB:g=original
 =102||	=102||	=102||	=102||	=102||	=102||	=102||	=102||
+*>D	*>D	*>D	*>D	*>D	*>D	*>D	*>D
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+!!section: Benedictus
 0r	.	0r	.	2.D	Be-	0r	.
 .	.	.	.	4E	.	.	.
 .	.	.	.	2F	.	.	.

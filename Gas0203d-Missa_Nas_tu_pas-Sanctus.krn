@@ -12,10 +12,16 @@
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Superius	*
 *I'B	*	*I'T	*	*I'A	*	*I'S	*
+*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]
+*>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]
+*>Pleni[B]	*>Pleni[B]	*>Pleni[B]	*>Pleni[B]	*>Pleni[B]	*>Pleni[B]	*>Pleni[B]	*>Pleni[B]
+*>Benedictus[C]	*>Benedictus[C]	*>Benedictus[C]	*>Benedictus[C]	*>Benedictus[C]	*>Benedictus[C]	*>Benedictus[C]	*>Benedictus[C]
+*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+!!section: Sanctus
 =1	=1	=1	=1	=1	=1	=1	=1
 0F	San-	[0F	San-	0c	San-	0f	San-
 =2	=2	=2	=2	=2	=2	=2	=2
@@ -328,8 +334,10 @@
 .	.	.	.	.	.	.	.
 !!LO:LB:g=original
 =50||	=50||	=50||	=50||	=50||	=50||	=50||	=50||
+*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+!!section: Pleni
 *	*	*	*	*	*Xedit	*	*Xedit
 0r	.	0r	.	4F	Ple-	1a	Ple-
 .	.	.	.	4G	.	.	.
@@ -416,9 +424,10 @@
 .	.	.	.	4A	.	.	.
 .	.	.	.	1G	.	.	.
 .	.	.	.	.	.	2e	.
-=63	=63	=63	=63	=63	=63	=63	=63
-1r	.	1r	.	1F	-a.	1f	-a.
 *	*	*	*Xedit	*	*	*	*
+=63	=63	=63	=63	=63	=63	=63	=63
+!!!ONB: Start of Osaana, but no section break
+1r	.	1r	.	1F	-a.	1f	-a.
 1F	O-	1c	O-	1r	.	1a	O-
 =64	=64	=64	=64	=64	=64	=64	=64
 0F	-san-	0c	-san-	1r	.	0a	-san-
@@ -492,11 +501,13 @@
 .	.	.	.	.	.	2e	.
 =75	=75	=75	=75	=75	=75	=75	=75
 0FFl	-sis.	0Fl	-sis.	0cl	-sis.	0fl	-sis.
+*	*	*	*	*	*Xedit	*	*
 !!LO:LB:g=original
 =76||	=76||	=76||	=76||	=76||	=76||	=76||	=76||
+*>C	*>C	*>C	*>C	*>C	*>C	*>C	*>C
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
-*	*	*	*	*	*Xedit	*	*
+!!section: Benedictus
 0r	.	0r	.	1.f	Be-	1f	Be-
 .	.	.	.	.	.	2a	-ne-
 .	.	.	.	2d	-ne-	2b-y	.

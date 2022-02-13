@@ -12,10 +12,17 @@
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Superius	*
 *I'B	*	*I'T	*	*I'A	*	*I'S	*
+*>[A,B,C,D,C]	*>[A,B,C,D,C]	*>[A,B,C,D,C]	*>[A,B,C,D,C]	*>[A,B,C,D,C]	*>[A,B,C,D,C]	*>[A,B,C,D,C]	*>[A,B,C,D,C]
+*>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]
+*>Pleni[B]	*>Pleni[B]	*>Pleni[B]	*>Pleni[B]	*>Pleni[B]	*>Pleni[B]	*>Pleni[B]	*>Pleni[B]
+*>Osanna[C]	*>Osanna[C]	*>Osanna[C]	*>Osanna[C]	*>Osanna[C]	*>Osanna[C]	*>Osanna[C]	*>Osanna[C]
+*>Benedictus[D]	*>Benedictus[D]	*>Benedictus[D]	*>Benedictus[D]	*>Benedictus[D]	*>Benedictus[D]	*>Benedictus[D]	*>Benedictus[D]
+*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
 *met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
+!!section: Sanctus
 =1	=1	=1	=1	=1	=1	=1	=1
 0.D	San-	0.r	.	0.r	.	0d	San-
 .	.	.	.	.	.	1f	.
@@ -348,8 +355,10 @@
 0.GGl	-oth.	0.Gl	-oth.	0.dl	-oth.	0.gl	-oth.
 !!LO:PB:g=original
 =40||	=40||	=40||	=40||	=40||	=40||	=40||	=40||
+*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*Xedit	*met(C|)	*
+!!section: Pleni
 1.G	Ple-	0r	.	[0B	Ple-	0r	.
 4F	.	.	.	.	.	.	.
 4E	.	.	.	.	.	.	.
@@ -632,9 +641,10 @@
 0GGl	-a.	0r	.	0Gl	-a.	0gl	-a.
 !!LO:LB:g=original
 =88||	=88||	=88||	=88||	=88||	=88||	=88||	=88||
-!!LO:TX:a:t=C3
+*>C	*>C	*>C	*>C	*>C	*>C	*>C	*>C
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
 *met(C3)	*	*met(C3)	*	*met(C3)	*	*met(C3)	*
+!!section: Osanna
 0.D	O-	0.D	O-	0.r	.	0.d	O-
 =89	=89	=89	=89	=89	=89	=89	=89
 *lig	*	*	*	*	*	*col	*
@@ -896,8 +906,10 @@
 0.GGl	-sis,	0.Gl	-sis.	0.dl	-sis.	0.gl	-sis.
 !!LO:PB:g=original
 =131||	=131||	=131||	=131||	=131||	=131||	=131||	=131||
+*>D	*>D	*>D	*>D	*>D	*>D	*>D	*>D
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+!!section: Benedictus
 2.D	Be-	0r	.	[0d	Be-	0r	.
 4E	.	.	.	.	.	.	.
 2F	.	.	.	.	.	.	.

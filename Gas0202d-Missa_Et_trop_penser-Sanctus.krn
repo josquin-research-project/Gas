@@ -12,10 +12,18 @@
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Superius	*
 *I'B	*	*I'T	*	*I'A	*	*I'S	*
+*>[A,B,C,D,E,C]	*>[A,B,C,D,E,C]	*>[A,B,C,D,E,C]	*>[A,B,C,D,E,C]	*>[A,B,C,D,E,C]	*>[A,B,C,D,E,C]	*>[A,B,C,D,E,C]	*>[A,B,C,D,E,C]
+*>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]
+*>Pleni[B]	*>Pleni[B]	*>Pleni[B]	*>Pleni[B]	*>Pleni[B]	*>Pleni[B]	*>Pleni[B]	*>Pleni[B]
+*>Osanna[C]	*>Osanna[C]	*>Osanna[C]	*>Osanna[C]	*>Osanna[C]	*>Osanna[C]	*>Osanna[C]	*>Osanna[C]
+*>Benedictus[D]	*>Benedictus[D]	*>Benedictus[D]	*>Benedictus[D]	*>Benedictus[D]	*>Benedictus[D]	*>Benedictus[D]	*>Benedictus[D]
+*>QuiVenit[E]	*>QuiVenit[E]	*>QuiVenit[E]	*>QuiVenit[E]	*>QuiVenit[E]	*>QuiVenit[E]	*>QuiVenit[E]	*>QuiVenit[E]
+*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
 *met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
+!!section: Sanctus
 =1	=1	=1	=1	=1	=1	=1	=1
 1.G	San-	0.r	.	0.r	.	1g	San-
 .	.	.	.	.	.	2d	.
@@ -394,8 +402,10 @@
 0.GGl	-oth.	0.G]	.	0.dl	-oth.	0.g]	.
 !!LO:LB:g=original
 =42||	=42||	=42||	=42||	=42||	=42||	=42||	=42||
+*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C)	*	*met(C)	*	*met(C)	*	*met(C)	*
+!!section: Pleni
 *	*Xedit	*	*	*	*	*	*
 1.G	Ple-	0r	.	1G	Ple-	0r	.
 .	.	.	.	2.B-y	.	.	.
@@ -597,8 +607,10 @@
 0GGl	-a.	0r	.	0G]	.	0g]	.
 !!LO:LB:g=original
 =70||	=70||	=70||	=70||	=70||	=70||	=70||	=70||
+*>C	*>C	*>C	*>C	*>C	*>C	*>C	*>C
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+!!section: Osanna
 *	*	*lig	*	*	*	*	*
 *	*	*	*edit	*	*	*	*
 [0D	O-	[0d	O-	[0A	O-	[0f	O-
@@ -860,8 +872,10 @@
 0GGl	-sis.	0Gl	-sis.	0dl	-sis.	0gl	-sis.
 !!LO:PB:g=original
 =115||	=115||	=115||	=115||	=115||	=115||	=115||	=115||
+*>D	*>D	*>D	*>D	*>D	*>D	*>D	*>D
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+!!section: Benedictus
 0r	.	0r	.	0d	Be-	[0f	Be-
 =116	=116	=116	=116	=116	=116	=116	=116
 *	*	*	*	*col	*	*	*
@@ -1030,8 +1044,10 @@
 0r	.	0r	.	0Gl	-nit	0Gl	-nit
 !!LO:LB:g=original
 =144||	=144||	=144||	=144||	=144||	=144||	=144||	=144||
+*>E	*>E	*>E	*>E	*>E	*>E	*>E	*>E
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*Xedit	*met(C|)	*
+!!section: Qui venit
 1.D	Qui	0r	.	[0d	in	0r	.
 2E	.	.	.	.	.	.	.
 =145	=145	=145	=145	=145	=145	=145	=145
