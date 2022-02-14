@@ -10,10 +10,15 @@
 *staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Bassus	*	*I"Quintus	*	*I"Tenor	*	*I"Altus	*	*I"Superius	*
 *I'B	*	*I'V	*	*I'T	*	*I'A	*	*I'S	*
+*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]
+*>Stabat[A]	*>Stabat[A]	*>Stabat[A]	*>Stabat[A]	*>Stabat[A]	*>Stabat[A]	*>Stabat[A]	*>Stabat[A]	*>Stabat[A]	*>Stabat[A]
+*>Crucifixi[B]	*>Crucifixi[B]	*>Crucifixi[B]	*>Crucifixi[B]	*>Crucifixi[B]	*>Crucifixi[B]	*>Crucifixi[B]	*>Crucifixi[B]	*>Crucifixi[B]	*>Crucifixi[B]
+*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A
 *clefF4	*	*clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
 *met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
+!!section: Stabat mater
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 0.r	.	0E	Sta-	0.r	.	0B	Sta-	0e	Sta-
 .	.	1E	-bat	.	.	1c	-bat	1e	-bat
@@ -672,8 +677,10 @@
 =82	=82	=82	=82	=82	=82	=82	=82	=82	=82
 0.EE;	-am.	0.BB;	-am.	0.G;	-mis	0.E;	-am.	0.g;	-am.
 =83||	=83||	=83||	=83||	=83||	=83||	=83||	=83||	=83||	=83||
+*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+!!section: Crucifixi
 *	*	*	*	*	*	*	*Xedit	*	*
 0r	.	0r	.	0r	.	1E	San-	0r	.
 .	.	.	.	.	.	2.E	-cta	.	.
