@@ -10,10 +10,15 @@
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Superius	*
 *I'B	*	*I'T	*	*I'A	*	*I'S	*
+*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]
+*>AveStella[A]	*>AveStella[A]	*>AveStella[A]	*>AveStella[A]	*>AveStella[A]	*>AveStella[A]	*>AveStella[A]	*>AveStella[A]
+*>Aures[B]	*>Aures[B]	*>Aures[B]	*>Aures[B]	*>Aures[B]	*>Aures[B]	*>Aures[B]	*>Aures[B]
+*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+!!section: Ave stella
 =1	=1	=1	=1	=1	=1	=1	=1
 0r	.	1.A	A-	0r	.	1a	A-
 .	.	.	.	.	.	2a	.
@@ -120,11 +125,12 @@
 2G	o-	1d	-mni-	2g]	.	2cc]	.
 2G	-mni-	.	.	2g	-mni-	2b	-mni-
 1C	-um.	1c	-um.	1e	-um.	1cc	-um.
+!!LO:TX:t=[whole]=[whole-dot]
 =26||	=26||	=26||	=26||	=26||	=26||	=26||	=26||
+*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
 *met(3)	*	*met(3)	*	*met(3)	*	*met(3)	*
-!!LO:TX:t=[whole]=[whole-dot]
-!!LO:TX:a:t=[3]
+!!section: Aures tuas
 0.r	.	0B	Au-	0.r	.	0g	Au-
 .	.	1B	-res	.	.	1g	-res
 =27	=27	=27	=27	=27	=27	=27	=27

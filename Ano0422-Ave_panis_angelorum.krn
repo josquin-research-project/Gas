@@ -9,10 +9,15 @@
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Superius	*
 *I'B	*	*I'T	*	*I'A	*	*I'S	*
+*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]
+*>AvePanis[A]	*>AvePanis[A]	*>AvePanis[A]	*>AvePanis[A]	*>AvePanis[A]	*>AvePanis[A]	*>AvePanis[A]	*>AvePanis[A]
+*>TuEsNostra[B]	*>TuEsNostra[B]	*>TuEsNostra[B]	*>TuEsNostra[B]	*>TuEsNostra[B]	*>TuEsNostra[B]	*>TuEsNostra[B]	*>TuEsNostra[B]
+*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+!!section: Ave panis
 =1	=1	=1	=1	=1	=1	=1	=1
 0C;	A-	0c;	A-	0g;	A-	0cc;	A-
 =2	=2	=2	=2	=2	=2	=2	=2
@@ -49,11 +54,12 @@
 .	.	.	.	.	.	4g	.
 =13	=13	=13	=13	=13	=13	=13	=13
 0E;	-rum!	0e;	-rum!	0B;	-rum!	0g;	-rum!
-=14||	=14||	=14||	=14||	=14||	=14||	=14||	=14||
 !!LO:TX:t=[whole] = [whole-dot]
-!!LO:TX:a:t=[O/3]
+=14||	=14||	=14||	=14||	=14||	=14||	=14||	=14||
+*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
 *met(O/3)	*	*met(O/3)	*	*met(O/3)	*	*met(O/3)	*
+!!section: Tu es nostra gloria
 0E	Tu	0B	Tu	0G	Tu	0g	Tu
 1E	es	1B	es	1G	es	1g	es
 !!LO:LB:g=original

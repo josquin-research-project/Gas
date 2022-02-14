@@ -12,10 +12,16 @@
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Superius	*
 *I'B	*	*I'T	*	*I'A	*	*I'S	*
+*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]
+*>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]
+*>Pleni[B]	*>Pleni[B]	*>Pleni[B]	*>Pleni[B]	*>Pleni[B]	*>Pleni[B]	*>Pleni[B]	*>Pleni[B]
+*>Benedictus[C]	*>Benedictus[C]	*>Benedictus[C]	*>Benedictus[C]	*>Benedictus[C]	*>Benedictus[C]	*>Benedictus[C]	*>Benedictus[C]
+*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+!!section: Sanctus
 =1	=1	=1	=1	=1	=1	=1	=1
 [0GG	San-	[0G	San-	[0d	San-	[0g	San-
 =2	=2	=2	=2	=2	=2	=2	=2
@@ -245,8 +251,10 @@
 0GG]	.	0G]	.	0dl	-oth.	0g]	.
 !!LO:LB:g=original
 =40||	=40||	=40||	=40||	=40||	=40||	=40||	=40||
+*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+!!section: Pleni
 1.G	Ple-	[0B-y	Ple-	0r	.	0r	.
 2E-i	.	.	.	.	.	.	.
 =41	=41	=41	=41	=41	=41	=41	=41
@@ -480,8 +488,10 @@
 0GGl	-sis.	0Gl	-sis.	0dl	-sis.	0gl	-sis.
 !!LO:PB:g=original
 =77||	=77||	=77||	=77||	=77||	=77||	=77||	=77||
+*>C	*>C	*>C	*>C	*>C	*>C	*>C	*>C
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+!!section: Benedictus
 0r	.	1G	Be-	0r	.	0r	.
 .	.	2F	-ne-	.	.	.	.
 .	.	[2G	-di-	.	.	.	.
@@ -655,9 +665,9 @@
 2E	.	.	.	2c	-mi-	1g	.
 1D	-mi-	1A	.	1d	-ni.	.	.
 .	.	.	.	.	.	2f#i	-mi-
-*	*	*Xlig	*	*	*	*	*
+*	*	*Xlig	*	*	*Xedit	*	*
 =103	=103	=103	=103	=103	=103	=103	=103
-*	*	*	*	*	*Xedit	*	*
+!!section: Osanna
 1E-X	-ni.	1G	-ni.	2.B-y	O-	1g	-ni.
 .	.	.	.	4c	.	.	.
 *	*Xedit	*	*	*	*	*	*
@@ -803,13 +813,12 @@
 1D	.	1A	-cel-	1d	-sis,	.	.
 .	.	.	.	.	.	2f#i	.
 !!LO:PB:g=original
+!!LO:TX:t=[whole]=[whole-dot]
 =123	=123	=123	=123	=123	=123	=123	=123
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
-*met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
-!!LO:TX:a:t=[C |3]
-!!LO:TX:t=[whole]=[whole-dot]
-*col	*	*lig	*	*	*	*	*
-*	*	*col	*	*col	*	*	*
+*met(C|3)	*	*met(C|3)	*	*met(C|3)	*	*met(C|3)	*
+*col	*	*col	*	*col	*	*	*
+*	*	*lig	*	*	*	*	*
 [0.GG	-sis,	0G	-sis,	[0.d	o-	0.g	-sis,
 .	.	[1B-y	.	.	.	.	.
 *	*	*Xlig	*	*	*	*	*
